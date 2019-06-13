@@ -1,0 +1,34 @@
+{
+    "name": "Oracle JET PWA",
+    "short_name": "Oracle JET PWA",
+    "icons": [{
+      "src": "css/images/logo_jet_128_rich.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "css/images/logo_jet_144_rich.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "css/images/logo_jet_152_rich.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "css/images/logo_jet_192_rich.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "css/images/logo_jet_256_rich.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }, {
+        "src": "css/images/logo_jet_512_rich.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+  }
